@@ -1,5 +1,8 @@
 # **Olist Marketing Analytics** 🛒📊
 
+## **Contexto do Projeto** 🎯
+Este projeto foi desenvolvido como parte do processo seletivo para o Bootcamp de Engenharia de Dados da Triggo AI, demonstrando habilidades em análise de dados, visualização e modelagem preditiva.
+
 ## **Visão Geral**
 
 Este projeto analisa dados do marketplace brasileiro Olist para extrair insights sobre o comportamento de compras, satisfação dos clientes e eficiência operacional. O código utiliza Python com bibliotecas como Pandas, Matplotlib, Seaborn e Scikit-learn para análise exploratória e modelagem preditiva.
