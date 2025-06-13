@@ -1,6 +1,6 @@
 # **Olist Marketing Analytics** 🛒📊
 
-## **Contexto do Projeto** 🎯
+## **Contexto do Projeto** 
 Este projeto foi desenvolvido como parte do processo seletivo para o Bootcamp de Engenharia de Dados da Triggo AI, demonstrando habilidades em análise de dados, visualização e modelagem preditiva.
 
 ## **Visão Geral**
