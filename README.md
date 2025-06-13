@@ -131,12 +131,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn geopy pandasql imbalanc
 python main_analysis.py
 ```
 
----
-
-**📊 Análise completa com insights estratégicos para otimização do marketplace brasileiro!**
- 4. Categorias de produtos:
- - Promover mais categorias bem avaliadas (brinquedos, perfumaria)
- - Investigar razões de satisfação menor em eletrônicos
- 5. Previsão operacional:
- - Implementar modelo preditivo para antecipar problemas de entrega
- - Utilizar dia da semana como variável importante no planejamento
